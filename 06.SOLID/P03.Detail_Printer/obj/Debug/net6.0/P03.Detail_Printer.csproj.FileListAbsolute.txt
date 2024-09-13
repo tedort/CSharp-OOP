@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\refint\P03.Detail_Printer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P03.Detail_Printer\obj\Debug\net6.0\ref\P03.Detail_Printer.dll

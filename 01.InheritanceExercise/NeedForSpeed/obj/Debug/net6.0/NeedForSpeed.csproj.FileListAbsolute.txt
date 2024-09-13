@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

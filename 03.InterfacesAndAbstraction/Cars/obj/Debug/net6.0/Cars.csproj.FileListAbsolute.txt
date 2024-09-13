@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll

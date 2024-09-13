@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\refint\TheContentDepartment.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamsPreparation\TheContentDepartment\obj\Debug\net6.0\ref\TheContentDepartment.dll

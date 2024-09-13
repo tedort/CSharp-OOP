@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\bin\Debug\net6.0\INStock.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\bin\Debug\net6.0\INStock.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\bin\Debug\net6.0\INStock.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\bin\Debug\net6.0\INStock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\bin\Debug\net6.0\INStock.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\refint\INStock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\INStock.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDev\INStock\obj\Debug\net6.0\ref\INStock.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOM4AwrGiHE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\11.WorkshopDI\\DependencyInversionAdvanced\\DependencyInversionAdvanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Todorov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Todorov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.PolymorphismExercise\Raiding\obj\Debug\net6.0\ref\Raiding.dll

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\commandpattern\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\07.reflectionandattributesexercise\\validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExitCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\CommandPattern\\Commands\\ExitCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\ExitCommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\CommandPattern\\Commands\\ExitCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\ExitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:16:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Validator.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Validator.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Validator.cs",
+              "RelativeToolTip": "ValidationAttributes\\Validator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:34:35.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Person.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:31:14.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:30:00.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA1wBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:26:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:23:55.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\07.ReflectionAndAttributesExercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeToolTip": "ValidationAttributes\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:20:28.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

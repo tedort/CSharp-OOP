@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78349EB-39F0-4B42-B924-B6CCBE24E08F}|FirstExample\\FirstExample.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\05.exceptionsanderrorhandling\\firstexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78349EB-39F0-4B42-B924-B6CCBE24E08F}|FirstExample\\FirstExample.csproj|solutionrelative:firstexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78349EB-39F0-4B42-B924-B6CCBE24E08F}|FirstExample\\FirstExample.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\05.exceptionsanderrorhandling\\firstexample\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78349EB-39F0-4B42-B924-B6CCBE24E08F}|FirstExample\\FirstExample.csproj|solutionrelative:firstexample\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3F150C-607E-45AC-B81A-AA34692E122A}|PlayCatch\\PlayCatch.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\05.exceptionsanderrorhandling\\playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3F150C-607E-45AC-B81A-AA34692E122A}|PlayCatch\\PlayCatch.csproj|solutionrelative:playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFB1E5F-EF67-4E76-A579-22A00BE3050C}|MoneyTransactions\\MoneyTransactions.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\05.exceptionsanderrorhandling\\moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFB1E5F-EF67-4E76-A579-22A00BE3050C}|MoneyTransactions\\MoneyTransactions.csproj|solutionrelative:moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\FirstExample\\CustomException.cs",
+              "RelativeDocumentMoniker": "FirstExample\\CustomException.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\FirstExample\\CustomException.cs",
+              "RelativeToolTip": "FirstExample\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:09:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\FirstExample\\Program.cs",
+              "RelativeDocumentMoniker": "FirstExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\FirstExample\\Program.cs",
+              "RelativeToolTip": "FirstExample\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvx8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:01:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\MoneyTransactions\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyTransactions\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\MoneyTransactions\\Program.cs",
+              "RelativeToolTip": "MoneyTransactions\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:13:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\PlayCatch\\Program.cs",
+              "RelativeDocumentMoniker": "PlayCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\05.ExceptionsAndErrorHandling\\PlayCatch\\Program.cs",
+              "RelativeToolTip": "PlayCatch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:54:39.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

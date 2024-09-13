@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\bin\Debug\net8.0\TemplateMethod.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\bin\Debug\net8.0\TemplateMethod.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\bin\Debug\net8.0\TemplateMethod.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\bin\Debug\net8.0\TemplateMethod.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\bin\Debug\net8.0\TemplateMethod.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\refint\TemplateMethod.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\TemplateMethod.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\TemplateMethod\obj\Debug\net8.0\ref\TemplateMethod.dll

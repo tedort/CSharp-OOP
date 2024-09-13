@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\bin\Debug\net6.0\CustomAttribute.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\bin\Debug\net6.0\CustomAttribute.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\bin\Debug\net6.0\CustomAttribute.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\bin\Debug\net6.0\CustomAttribute.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\bin\Debug\net6.0\CustomAttribute.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\refint\CustomAttribute.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\ref\CustomAttribute.dll

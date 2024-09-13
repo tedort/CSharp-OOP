@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\bin\Debug\net6.0\Chainblock.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\bin\Debug\net6.0\Chainblock.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\bin\Debug\net6.0\Chainblock.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\bin\Debug\net6.0\Chainblock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\bin\Debug\net6.0\Chainblock.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\refint\Chainblock.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\Chainblock.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\09.MockingAndTestDrivenDevelopmentExercise\Chainblock\obj\Debug\net6.0\ref\Chainblock.dll

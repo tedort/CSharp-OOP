@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\Animals\obj\Debug\net6.0\ref\Animals.dll

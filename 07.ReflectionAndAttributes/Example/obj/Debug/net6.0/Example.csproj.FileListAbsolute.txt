@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\bin\Debug\net6.0\Example.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\bin\Debug\net6.0\Example.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\bin\Debug\net6.0\Example.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\bin\Debug\net6.0\Example.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\bin\Debug\net6.0\Example.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\refint\Example.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\Example.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\Example\obj\Debug\net6.0\ref\Example.dll

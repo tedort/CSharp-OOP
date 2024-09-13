@@ -1,0 +1,17 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Cloneable.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Cloneable.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Cloneable.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Cloneable.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Cloneable.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\refint\Cloneable.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\ref\Cloneable.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.csproj.AssemblyReference.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Cloneable\obj\Debug\net8.0\Cloneable.csproj.Up2Date

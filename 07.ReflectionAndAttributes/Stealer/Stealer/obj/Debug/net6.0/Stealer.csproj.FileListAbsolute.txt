@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\bin\Debug\net6.0\Stealer.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\bin\Debug\net6.0\Stealer.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\bin\Debug\net6.0\Stealer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\bin\Debug\net6.0\Stealer.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\Stealer\Stealer\obj\Debug\net6.0\ref\Stealer.dll

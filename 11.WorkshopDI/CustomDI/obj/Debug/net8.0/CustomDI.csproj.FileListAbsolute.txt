@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\bin\Debug\net8.0\CustomDI.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\bin\Debug\net8.0\CustomDI.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\bin\Debug\net8.0\CustomDI.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\bin\Debug\net8.0\CustomDI.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\bin\Debug\net8.0\CustomDI.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\refint\CustomDI.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\CustomDI.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\11.WorkshopDI\CustomDI\obj\Debug\net8.0\ref\CustomDI.dll

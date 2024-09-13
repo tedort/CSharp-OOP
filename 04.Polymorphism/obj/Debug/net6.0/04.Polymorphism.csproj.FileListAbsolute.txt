@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\bin\Debug\net6.0\04.Polymorphism.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\bin\Debug\net6.0\04.Polymorphism.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\bin\Debug\net6.0\04.Polymorphism.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\bin\Debug\net6.0\04.Polymorphism.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\bin\Debug\net6.0\04.Polymorphism.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\refint\04.Polymorphism.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\04.Polymorphism.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\04.Polymorphism\obj\Debug\net6.0\ref\04.Polymorphism.dll

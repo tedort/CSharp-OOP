@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\salooncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\salooncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exam\\cardealership\\models\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Core\\Controller.cs",
+              "RelativeToolTip": "CarDealership\\Core\\Controller.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAkwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:26:57.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Truck.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:40:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SUV.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\SUV.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\SUV.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\SUV.cs",
+              "RelativeToolTip": "CarDealership\\Models\\SUV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:40:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaloonCar.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\SaloonCar.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\SaloonCar.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\SaloonCar.cs",
+              "RelativeToolTip": "CarDealership\\Models\\SaloonCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:39:57.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "CarDealership\\Utilities\\Results\\Expected.txt",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "CarDealership\\Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswFAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T07:23:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "CarDealership\\Utilities\\Results\\Actual.txt",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "CarDealership\\Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T07:23:53.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealership\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\StartUp.cs",
+              "RelativeToolTip": "CarDealership\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:18:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:42:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Customer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:42:24.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CarDealership\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:31:35.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dealership.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Dealership.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Dealership.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Exam\\CarDealership\\Models\\Dealership.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Dealership.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:31:23.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

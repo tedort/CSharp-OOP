@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\bin\Debug\net6.0\SoftUni.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\bin\Debug\net6.0\SoftUni.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\bin\Debug\net6.0\SoftUni.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\bin\Debug\net6.0\SoftUni.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\bin\Debug\net6.0\SoftUni.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\refint\SoftUni.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\SoftUni.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\08.UnitTesting\UnitTestingExample\SoftUni\obj\Debug\net6.0\ref\SoftUni.dll

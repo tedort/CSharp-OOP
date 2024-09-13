@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\02.encapsulationexercise\\footballteamgenerator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\02.encapsulationexercise\\footballteamgenerator\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\02.encapsulationexercise\\footballteamgenerator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B48AC04-DBDD-47A7-A540-FDB522B26768}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE891527-211F-4798-801A-8A18A80199E6}|ShoppingSpree2\\ShoppingSpree.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\02.encapsulationexercise\\shoppingspree2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE891527-211F-4798-801A-8A18A80199E6}|ShoppingSpree2\\ShoppingSpree.csproj|solutionrelative:shoppingspree2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\ShoppingSpree2\\StartUp.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree2\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\ShoppingSpree2\\StartUp.cs",
+              "RelativeToolTip": "ShoppingSpree2\\StartUp.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:58:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\StartUp.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\StartUp.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\StartUp.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:29:49.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\Team.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\Team.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\Team.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\Team.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:56:17.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\Player.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\Player.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\02.EncapsulationExercise\\FootballTeamGenerator\\Player.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\Player.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:35:52.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

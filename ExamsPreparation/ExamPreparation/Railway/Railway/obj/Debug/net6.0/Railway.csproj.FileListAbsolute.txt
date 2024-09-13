@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\ExamPreparation\Railway\Railway\obj\Debug\net6.0\ref\Railway.dll

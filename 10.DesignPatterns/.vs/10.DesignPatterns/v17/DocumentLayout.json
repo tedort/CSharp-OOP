@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\compositepattern\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|solutionrelative:compositepattern\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\compositepattern\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|solutionrelative:compositepattern\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\compositepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|solutionrelative:compositepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\compositepattern\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|solutionrelative:compositepattern\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\compositepattern\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519BC7FD-35C6-4F07-8ECA-66A3EDA4685B}|CompositePattern\\CompositePattern.csproj|solutionrelative:compositepattern\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D7D840-7D31-4581-AFC0-1161E86CA4BC}|Singleton\\Singleton.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\singleton\\usersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D7D840-7D31-4581-AFC0-1161E86CA4BC}|Singleton\\Singleton.csproj|solutionrelative:singleton\\usersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatterns\\commandpattern\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9997C-10B1-4F92-951B-DC53C0EB382C}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Shape.cs",
+              "RelativeDocumentMoniker": "CompositePattern\\Shape.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Shape.cs",
+              "RelativeToolTip": "CompositePattern\\Shape.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:52.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Square.cs",
+              "RelativeDocumentMoniker": "CompositePattern\\Square.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Square.cs",
+              "RelativeToolTip": "CompositePattern\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Program.cs",
+              "RelativeDocumentMoniker": "CompositePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Program.cs",
+              "RelativeToolTip": "CompositePattern\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Position.cs",
+              "RelativeDocumentMoniker": "CompositePattern\\Position.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Position.cs",
+              "RelativeToolTip": "CompositePattern\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:43.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Line.cs",
+              "RelativeDocumentMoniker": "CompositePattern\\Line.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CompositePattern\\Line.cs",
+              "RelativeToolTip": "CompositePattern\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\Singleton\\UserSingleton.cs",
+              "RelativeDocumentMoniker": "Singleton\\UserSingleton.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\Singleton\\UserSingleton.cs",
+              "RelativeToolTip": "Singleton\\UserSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:56:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DivideCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\DivideCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\DivideCommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\DivideCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\DivideCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:51:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiplyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\MultiplyCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\MultiplyCommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\MultiplyCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\MultiplyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:51:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Calculator.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Calculator.cs",
+              "RelativeToolTip": "CommandPattern\\Calculator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:26:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\MinusCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\MinusCommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\MinusCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\MinusCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:25:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\PlusCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\PlusCommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\PlusCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\PlusCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:23:36.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Commands\\ICommand.cs",
+              "RelativeToolTip": "CommandPattern\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:21:49.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatterns\\CommandPattern\\Program.cs",
+              "RelativeToolTip": "CommandPattern\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:21:24.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

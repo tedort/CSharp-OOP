@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\bin\Debug\net6.0\TypeClass.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\bin\Debug\net6.0\TypeClass.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\bin\Debug\net6.0\TypeClass.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\bin\Debug\net6.0\TypeClass.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\bin\Debug\net6.0\TypeClass.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\refint\TypeClass.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\TypeClass.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\07.ReflectionAndAttributes\TypeClass\obj\Debug\net6.0\ref\TypeClass.dll

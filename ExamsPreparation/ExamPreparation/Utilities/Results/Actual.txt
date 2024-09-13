@@ -1,0 +1,46 @@
+MaxineHarper is successfully registered for the competition -> DiverRepository.
+JamalCarter is successfully registered for the competition -> DiverRepository.
+SkyDiver is not allowed in our competition.
+OscarWallace is successfully registered for the competition -> DiverRepository.
+LilaMoreno is successfully registered for the competition -> DiverRepository.
+LilaMoreno is already a participant -> DiverRepository.
+AzureDamselfish is allowed for chasing.
+BluestripeSnapper is allowed for chasing.
+YellowtailSurgeonfish is allowed for chasing.
+Barracuda is allowed for chasing.
+Coryphaena is allowed for chasing.
+Bluefish is allowed for chasing.
+SwordFish is allowed for chasing.
+Mahi-Mahi is allowed for chasing.
+Tuna is allowed for chasing.
+AquariumFish is forbidden for chasing in our competition.
+Barracuda is already allowed -> FishRepository.
+DiverRepository has no FionaBennett registered for the competition.
+FishRepository is not allowed to be caught in this competition.
+MaxineHarper missed a good YellowtailSurgeonfish.
+MaxineHarper missed a good AzureDamselfish.
+MaxineHarper missed a good Mahi-Mahi.
+MaxineHarper missed a good Tuna.
+MaxineHarper missed a good Bluefish.
+MaxineHarper missed a good Coryphaena.
+MaxineHarper missed a good BluestripeSnapper.
+OscarWallace missed a good Barracuda.
+OscarWallace missed a good YellowtailSurgeonfish.
+OscarWallace missed a good Tuna.
+OscarWallace will not be allowed to dive, due to health issues.
+JamalCarter missed a good Tuna.
+JamalCarter missed a good BluestripeSnapper.
+LilaMoreno missed a good Tuna.
+LilaMoreno missed a good Mahi-Mahi.
+LilaMoreno missed a good SwordFish.
+Divers recovered: 2
+LilaMoreno missed a good Tuna.
+LilaMoreno missed a good Mahi-Mahi.
+LilaMoreno missed a good SwordFish.
+Diver [ Name: LilaMoreno, Oxygen left: 216, Fish caught: 0, Points earned: 0 ]
+Catch Report:
+**Nautical-Catch-Challenge**
+Diver [ Name: JamalCarter, Oxygen left: 120, Fish caught: 0, Points earned: 0 ]
+Diver [ Name: LilaMoreno, Oxygen left: 216, Fish caught: 0, Points earned: 0 ]
+Diver [ Name: MaxineHarper, Oxygen left: 369, Fish caught: 0, Points earned: 0 ]
+Diver [ Name: OscarWallace, Oxygen left: 120, Fish caught: 0, Points earned: 0 ]

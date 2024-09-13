@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFDB45D-5AA9-409D-B638-B82D9919C8E4}|Calculator.Tests\\Calculator.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\calculator.tests\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFDB45D-5AA9-409D-B638-B82D9919C8E4}|Calculator.Tests\\Calculator.Tests.csproj|solutionrelative:calculator.tests\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280E932-D7C7-4334-BF58-6D9CEAF340B5}|Example\\Calculators.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\example\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280E932-D7C7-4334-BF58-6D9CEAF340B5}|Example\\Calculators.csproj|solutionrelative:example\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7612CD8D-4FF7-4534-B7FB-6BEDD67EBD6E}|SoftUni.Tests\\SoftUni.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\softuni.tests\\universitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7612CD8D-4FF7-4534-B7FB-6BEDD67EBD6E}|SoftUni.Tests\\SoftUni.Tests.csproj|solutionrelative:softuni.tests\\universitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\softuni\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\softuni\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7612CD8D-4FF7-4534-B7FB-6BEDD67EBD6E}|SoftUni.Tests\\SoftUni.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\softuni.tests\\softuni.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7612CD8D-4FF7-4534-B7FB-6BEDD67EBD6E}|SoftUni.Tests\\SoftUni.Tests.csproj|solutionrelative:softuni.tests\\softuni.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\08.unittesting\\unittestingexample\\softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E50EBE-F13A-4476-995E-944C80E77F6C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\Example\\Calculator.cs",
+              "RelativeDocumentMoniker": "Example\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\Example\\Calculator.cs",
+              "RelativeToolTip": "Example\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:51:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\Calculator.Tests\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "Calculator.Tests\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\Calculator.Tests\\CalculatorTest.cs",
+              "RelativeToolTip": "Calculator.Tests\\CalculatorTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:47:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoftUni.Tests",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni.Tests\\SoftUni.Tests.csproj",
+              "RelativeDocumentMoniker": "SoftUni.Tests\\SoftUni.Tests.csproj",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni.Tests\\SoftUni.Tests.csproj",
+              "RelativeToolTip": "SoftUni.Tests\\SoftUni.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T19:46:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityTests.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni.Tests\\UniversityTests.cs",
+              "RelativeDocumentMoniker": "SoftUni.Tests\\UniversityTests.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni.Tests\\UniversityTests.cs",
+              "RelativeToolTip": "SoftUni.Tests\\UniversityTests.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:46:18.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\University.cs",
+              "RelativeDocumentMoniker": "SoftUni\\University.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\University.cs",
+              "RelativeToolTip": "SoftUni\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:41:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\Student.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Student.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\Student.cs",
+              "RelativeToolTip": "SoftUni\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:41:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\08.UnitTesting\\UnitTestingExample\\SoftUni\\Program.cs",
+              "RelativeToolTip": "SoftUni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:40:49.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

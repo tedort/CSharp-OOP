@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\01.Inheritance\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

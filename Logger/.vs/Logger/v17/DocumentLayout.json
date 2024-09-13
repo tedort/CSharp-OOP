@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\softunilogger\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|solutionrelative:softunilogger\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\softunilogger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|solutionrelative:softunilogger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\softunilogger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|solutionrelative:softunilogger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB35BA2-0675-4B41-9EF7-5110A59021AE}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\logger.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB35BA2-0675-4B41-9EF7-5110A59021AE}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB35BA2-0675-4B41-9EF7-5110A59021AE}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\logger.consoleapp\\20240729122044.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEB35BA2-0675-4B41-9EF7-5110A59021AE}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\20240729122044.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\logger\\softunilogger\\factories\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4A5FE-3008-471B-8A08-A9DBB75379F6}|SoftUniLogger\\SoftUniLogger.csproj|solutionrelative:softunilogger\\factories\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Appenders\\ConsoleAppender.cs",
+              "RelativeDocumentMoniker": "SoftUniLogger\\Appenders\\ConsoleAppender.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Appenders\\ConsoleAppender.cs",
+              "RelativeToolTip": "SoftUniLogger\\Appenders\\ConsoleAppender.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:28:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "SoftUniLogger\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "SoftUniLogger\\Appenders\\FileAppender.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:28:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240729122044.txt",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\Logger.ConsoleApp\\20240729122044.txt",
+              "RelativeDocumentMoniker": "Logger.ConsoleApp\\20240729122044.txt",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\Logger.ConsoleApp\\20240729122044.txt",
+              "RelativeToolTip": "Logger.ConsoleApp\\20240729122044.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-28T21:20:59.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Loggers\\Logger.cs",
+              "RelativeDocumentMoniker": "SoftUniLogger\\Loggers\\Logger.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Loggers\\Logger.cs",
+              "RelativeToolTip": "SoftUniLogger\\Loggers\\Logger.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:12:24.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\Logger.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Logger.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\Logger.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Logger.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:47:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Factories\\LoggerFactory.cs",
+              "RelativeDocumentMoniker": "SoftUniLogger\\Factories\\LoggerFactory.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\Logger\\SoftUniLogger\\Factories\\LoggerFactory.cs",
+              "RelativeToolTip": "SoftUniLogger\\Factories\\LoggerFactory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:41:11.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

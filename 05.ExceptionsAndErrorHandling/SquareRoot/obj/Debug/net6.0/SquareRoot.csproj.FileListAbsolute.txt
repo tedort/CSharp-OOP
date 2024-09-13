@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\05.ExceptionsAndErrorHandling\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll

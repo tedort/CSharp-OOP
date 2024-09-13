@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF149C-3AC8-40ED-A135-DE29B904A930}|OnlineShopPromotions.Tests\\OnlineShopPromotions.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendev\\onlineshoppromotions.tests\\storetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF149C-3AC8-40ED-A135-DE29B904A930}|OnlineShopPromotions.Tests\\OnlineShopPromotions.Tests.csproj|solutionrelative:onlineshoppromotions.tests\\storetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendev\\mocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|solutionrelative:mocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendev\\mocks\\fakepromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|solutionrelative:mocks\\fakepromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendev\\mocks\\ipromotionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D87A25-F62D-4309-8BD7-94CBC92EA84C}|Mocks\\Mocks.csproj|solutionrelative:mocks\\ipromotionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreTest.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\OnlineShopPromotions.Tests\\StoreTest.cs",
+              "RelativeDocumentMoniker": "OnlineShopPromotions.Tests\\StoreTest.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\OnlineShopPromotions.Tests\\StoreTest.cs",
+              "RelativeToolTip": "OnlineShopPromotions.Tests\\StoreTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:33:39.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakePromotion.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\FakePromotion.cs",
+              "RelativeDocumentMoniker": "Mocks\\FakePromotion.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\FakePromotion.cs",
+              "RelativeToolTip": "Mocks\\FakePromotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPromotionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\IPromotionStrategy.cs",
+              "RelativeDocumentMoniker": "Mocks\\IPromotionStrategy.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\IPromotionStrategy.cs",
+              "RelativeToolTip": "Mocks\\IPromotionStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\Program.cs",
+              "RelativeDocumentMoniker": "Mocks\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\Program.cs",
+              "RelativeToolTip": "Mocks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:09:16.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

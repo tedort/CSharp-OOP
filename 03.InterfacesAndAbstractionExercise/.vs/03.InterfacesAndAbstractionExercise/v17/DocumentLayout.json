@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\03.interfacesandabstractionexercise\\explicitinterfaces\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\03.interfacesandabstractionexercise\\explicitinterfaces\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\03.interfacesandabstractionexercise\\explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\03.interfacesandabstractionexercise\\explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C162A-D06E-49EA-8DC9-3A0E1C13AE58}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Citizen.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Citizen.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Citizen.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:07:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IResident.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:05:56.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:05:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\StartUp.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\03.InterfacesAndAbstractionExercise\\ExplicitInterfaces\\StartUp.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\StartUp.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:00:38.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

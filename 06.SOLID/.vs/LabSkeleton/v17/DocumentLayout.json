@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\06.solid\\p04.recharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Worker.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Worker.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Worker.cs",
+              "RelativeToolTip": "P04.Recharge\\Worker.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:37.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Robot.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Robot.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Robot.cs",
+              "RelativeToolTip": "P04.Recharge\\Robot.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Program.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Program.cs",
+              "RelativeToolTip": "P04.Recharge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRechargeable.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\IRechargeable.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\IRechargeable.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\IRechargeable.cs",
+              "RelativeToolTip": "P04.Recharge\\IRechargeable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:28.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISleeper.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\ISleeper.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\ISleeper.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\ISleeper.cs",
+              "RelativeToolTip": "P04.Recharge\\ISleeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:28.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Employee.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Employee.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\06.SOLID\\P04.Recharge\\Employee.cs",
+              "RelativeToolTip": "P04.Recharge\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:25:22.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

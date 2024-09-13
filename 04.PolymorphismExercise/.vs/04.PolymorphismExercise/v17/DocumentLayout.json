@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7079DFD9-3A95-4A5A-95FF-1563E375F4EF}|Raiding\\Raiding.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\raiding\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7079DFD9-3A95-4A5A-95FF-1563E375F4EF}|Raiding\\Raiding.csproj|solutionrelative:raiding\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\food\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\food\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\food\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\food\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\food\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\food\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\food\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\food\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\04.polymorphismexercise\\wildfarm\\models\\food\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3822C0E6-6B42-4DFF-9869-161697DFB76A}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\food\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\Raiding\\HeroFactory.cs",
+              "RelativeDocumentMoniker": "Raiding\\HeroFactory.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\Raiding\\HeroFactory.cs",
+              "RelativeToolTip": "Raiding\\HeroFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:23:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Tiger.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Tiger.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Tiger.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Tiger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:29:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Cat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Cat.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Cat.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Cat.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:29:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Feline.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Feline.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Feline.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Feline.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:27:01.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Dog.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Dog.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Dog.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Dog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:26:33.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Mouse.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Mouse.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Mouse.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Mouse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:26:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Mammal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Mammal.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Mammal.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Mammal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:24:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hen.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Hen.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Hen.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Hen.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Hen.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:24:10.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Owl.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Owl.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Owl.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Owl.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:20:49.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Bird.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Bird.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Bird.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Bird.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:19:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Animal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animal\\Animal.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Animal\\Animal.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animal\\Animal.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:16:36.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Seeds.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Seeds.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Food\\Seeds.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Seeds.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Food\\Seeds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:15:44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Meat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Food\\Meat.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Meat.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Food\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:15:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Fruit.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Food\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Fruit.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Food\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:15:06.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vegetable.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Vegetable.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Food\\Vegetable.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Vegetable.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Food\\Vegetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:14:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Food.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Food\\Food.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\Models\\Food\\Food.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Food\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:59:10.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\StartUp.cs",
+              "RelativeDocumentMoniker": "WildFarm\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\04.PolymorphismExercise\\WildFarm\\StartUp.cs",
+              "RelativeToolTip": "WildFarm\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:58:42.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

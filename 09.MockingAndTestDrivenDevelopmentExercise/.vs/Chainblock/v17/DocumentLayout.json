@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendevelopmentexercise\\chainblock\\contracts\\ichainblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|solutionrelative:chainblock\\contracts\\ichainblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605FD7F2-45B1-4827-B74F-30B2CD6C65C9}|Chainblock.Tests\\Chainblock.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendevelopmentexercise\\chainblock.tests\\chainblocktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605FD7F2-45B1-4827-B74F-30B2CD6C65C9}|Chainblock.Tests\\Chainblock.Tests.csproj|solutionrelative:chainblock.tests\\chainblocktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendevelopmentexercise\\chainblock\\services\\chainblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|solutionrelative:chainblock\\services\\chainblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\09.mockingandtestdrivendevelopmentexercise\\chainblock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A8DFA9-2674-4F33-9475-FD99A34BFB99}|Chainblock\\Chainblock.csproj|solutionrelative:chainblock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChainblockTests.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock.Tests\\ChainblockTests.cs",
+              "RelativeDocumentMoniker": "Chainblock.Tests\\ChainblockTests.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock.Tests\\ChainblockTests.cs",
+              "RelativeToolTip": "Chainblock.Tests\\ChainblockTests.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwH8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:50:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChainblockService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\Services\\ChainblockService.cs",
+              "RelativeDocumentMoniker": "Chainblock\\Services\\ChainblockService.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\Services\\ChainblockService.cs",
+              "RelativeToolTip": "Chainblock\\Services\\ChainblockService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:42:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IChainblock.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\Contracts\\IChainblock.cs",
+              "RelativeDocumentMoniker": "Chainblock\\Contracts\\IChainblock.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\Contracts\\IChainblock.cs",
+              "RelativeToolTip": "Chainblock\\Contracts\\IChainblock.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:41:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\StartUp.cs",
+              "RelativeDocumentMoniker": "Chainblock\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDevelopmentExercise\\Chainblock\\StartUp.cs",
+              "RelativeToolTip": "Chainblock\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:36:54.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

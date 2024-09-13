@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB54240-4157-49F5-9567-1149E7A3F07B}|AutoTrade.Tests\\AutoTrade.Tests.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\examunittesting\\autotrade.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB54240-4157-49F5-9567-1149E7A3F07B}|AutoTrade.Tests\\AutoTrade.Tests.csproj|solutionrelative:autotrade.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DA0F3-8E05-4991-9D36-814C2B19DD19}|AutoTrade\\AutoTrade.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\examunittesting\\autotrade\\dealershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DA0F3-8E05-4991-9D36-814C2B19DD19}|AutoTrade\\AutoTrade.csproj|solutionrelative:autotrade\\dealershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamUnitTesting\\AutoTrade.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AutoTrade.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamUnitTesting\\AutoTrade.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AutoTrade.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv0oAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:47:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DealerShop.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamUnitTesting\\AutoTrade\\DealerShop.cs",
+              "RelativeDocumentMoniker": "AutoTrade\\DealerShop.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamUnitTesting\\AutoTrade\\DealerShop.cs",
+              "RelativeToolTip": "AutoTrade\\DealerShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:46:03.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\exampreparationexercise\\models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:30:11.321Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OxygenClimber.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\OxygenClimber.cs",
+              "RelativeDocumentMoniker": "Models\\OxygenClimber.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\OxygenClimber.cs",
+              "RelativeToolTip": "Models\\OxygenClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:59:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NaturalClimber.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\NaturalClimber.cs",
+              "RelativeDocumentMoniker": "Models\\NaturalClimber.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\NaturalClimber.cs",
+              "RelativeToolTip": "Models\\NaturalClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:59:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Climber.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\Climber.cs",
+              "RelativeDocumentMoniker": "Models\\Climber.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\Climber.cs",
+              "RelativeToolTip": "Models\\Climber.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:59:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:40:08.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Expected.txt",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-13T14:39:06.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Actual.txt",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-13T14:31:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:29:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClimberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Repositories\\ClimberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClimberRepository.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Repositories\\ClimberRepository.cs",
+              "RelativeToolTip": "Repositories\\ClimberRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:20:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseCamp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\BaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\BaseCamp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Models\\BaseCamp.cs",
+              "RelativeToolTip": "Models\\BaseCamp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:51:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Repositories\\PeakRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PeakRepository.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Repositories\\PeakRepository.cs",
+              "RelativeToolTip": "Repositories\\PeakRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:34:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\ExamPreparationExercise\\Core\\Engine.cs",
+              "RelativeToolTip": "Core\\Engine.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:30:33.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

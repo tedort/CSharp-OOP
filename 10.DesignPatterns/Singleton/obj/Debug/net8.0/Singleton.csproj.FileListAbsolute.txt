@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatterns\Singleton\obj\Debug\net8.0\ref\Singleton.dll

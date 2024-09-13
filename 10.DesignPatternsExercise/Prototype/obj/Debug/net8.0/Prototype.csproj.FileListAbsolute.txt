@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\bin\Debug\net8.0\Prototype.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\bin\Debug\net8.0\Prototype.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\bin\Debug\net8.0\Prototype.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\bin\Debug\net8.0\Prototype.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\10.DesignPatternsExercise\Prototype\obj\Debug\net8.0\ref\Prototype.dll

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\templatemethod\\models\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\models\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70008333-BFBA-4E50-91A5-715FA1D795DA}|Composite\\Composite.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70008333-BFBA-4E50-91A5-715FA1D795DA}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB88BD0-CF79-4B7A-AD90-A6A9D9A2971F}|Prototype\\Prototype.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB88BD0-CF79-4B7A-AD90-A6A9D9A2971F}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB88BD0-CF79-4B7A-AD90-A6A9D9A2971F}|Prototype\\Prototype.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\prototype\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB88BD0-CF79-4B7A-AD90-A6A9D9A2971F}|Prototype\\Prototype.csproj|solutionrelative:prototype\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\templatemethod\\models\\whitebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\models\\whitebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\templatemethod\\models\\wholegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\models\\wholegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\10.designpatternsexercise\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C4C90-44EF-477F-9279-7069EB79A4AB}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:01:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:48:50.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Prototype\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Prototype\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\Prototype\\Models\\Student.cs",
+              "RelativeToolTip": "Prototype\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:48:35.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WholeGrain.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\WholeGrain.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Models\\WholeGrain.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\WholeGrain.cs",
+              "RelativeToolTip": "TemplateMethod\\Models\\WholeGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:22:55.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WhiteBread.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\WhiteBread.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Models\\WhiteBread.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\WhiteBread.cs",
+              "RelativeToolTip": "TemplateMethod\\Models\\WhiteBread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:19:45.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\Bread.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Models\\Bread.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Models\\Bread.cs",
+              "RelativeToolTip": "TemplateMethod\\Models\\Bread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:16:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\10.DesignPatternsExercise\\TemplateMethod\\Program.cs",
+              "RelativeToolTip": "TemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:15:21.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

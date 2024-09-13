@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\02.InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

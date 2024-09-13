@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\01.singleinheritance\\collegestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\collegestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\01.singleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\01.singleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\01.singleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ABD7B0-49E3-4150-B323-C21EC255E319}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED2B31C-CF9E-4E99-8C70-C4EF22F837BA}|CustomRandomList\\CustomRandomList.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED2B31C-CF9E-4E99-8C70-C4EF22F837BA}|CustomRandomList\\CustomRandomList.csproj|solutionrelative:customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED2B31C-CF9E-4E99-8C70-C4EF22F837BA}|CustomRandomList\\CustomRandomList.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\customrandomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED2B31C-CF9E-4E99-8C70-C4EF22F837BA}|CustomRandomList\\CustomRandomList.csproj|solutionrelative:customrandomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F4517-0852-49E4-8F5E-509B9ADF381E}|CustomStack\\CustomStack.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F4517-0852-49E4-8F5E-509B9ADF381E}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F4517-0852-49E4-8F5E-509B9ADF381E}|CustomStack\\CustomStack.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F4517-0852-49E4-8F5E-509B9ADF381E}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\farm\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|solutionrelative:farm\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\farm\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|solutionrelative:farm\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\farm\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|solutionrelative:farm\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\farm\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|solutionrelative:farm\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\oop\\01.inheritance\\farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8F9B5-99A4-4822-8F2F-9684A6D530ED}|Farm\\Farm.csproj|solutionrelative:farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollegeStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\CollegeStudent.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\CollegeStudent.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\CollegeStudent.cs",
+              "RelativeToolTip": "01.SingleInheritance\\CollegeStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:56.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Person.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Person.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Person.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Program.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:52.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Student.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Student.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\01.SingleInheritance\\Student.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomList.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomRandomList\\RandomList.cs",
+              "RelativeDocumentMoniker": "CustomRandomList\\RandomList.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomRandomList\\RandomList.cs",
+              "RelativeToolTip": "CustomRandomList\\RandomList.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomRandomList\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomRandomList\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomRandomList\\StartUp.cs",
+              "RelativeToolTip": "CustomRandomList\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Animal.cs",
+              "RelativeDocumentMoniker": "Farm\\Animal.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Animal.cs",
+              "RelativeToolTip": "Farm\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Cat.cs",
+              "RelativeDocumentMoniker": "Farm\\Cat.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Cat.cs",
+              "RelativeToolTip": "Farm\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Dog.cs",
+              "RelativeDocumentMoniker": "Farm\\Dog.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Dog.cs",
+              "RelativeToolTip": "Farm\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Puppy.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Puppy.cs",
+              "RelativeDocumentMoniker": "Farm\\Puppy.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\Puppy.cs",
+              "RelativeToolTip": "Farm\\Puppy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:33.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\StartUp.cs",
+              "RelativeDocumentMoniker": "Farm\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\Farm\\StartUp.cs",
+              "RelativeToolTip": "Farm\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StackOfStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomStack\\StackOfStrings.cs",
+              "RelativeDocumentMoniker": "CustomStack\\StackOfStrings.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomStack\\StackOfStrings.cs",
+              "RelativeToolTip": "CustomStack\\StackOfStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:29:06.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomStack\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomStack\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\01.Inheritance\\CustomStack\\StartUp.cs",
+              "RelativeToolTip": "CustomStack\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:28:38.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

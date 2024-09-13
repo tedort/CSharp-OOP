@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\refint\P02.Graphic_Editor.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\06.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\ref\P02.Graphic_Editor.dll

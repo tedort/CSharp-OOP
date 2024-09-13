@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\OOP\03.InterfacesAndAbstractionExercise\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll

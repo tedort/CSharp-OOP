@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0531wyt3Y84=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\OOP\\09.MockingAndTestDrivenDev\\Mocks\\Mocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Todorov\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Teodor Todorov\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Teodor Todorov\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
